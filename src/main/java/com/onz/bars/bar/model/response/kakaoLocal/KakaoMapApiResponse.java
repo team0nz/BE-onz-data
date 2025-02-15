@@ -1,6 +1,6 @@
-package com.onz.bars.bar.domain.apiResponse.kakaoLocal;
+package com.onz.bars.bar.model.response.kakaoLocal;
 
-import com.onz.bars.bar.domain.apiResponse.ApiResponse;
+import com.onz.bars.bar.model.response.ApiResponse;
 import lombok.Getter;
 import lombok.NoArgsConstructor;
 

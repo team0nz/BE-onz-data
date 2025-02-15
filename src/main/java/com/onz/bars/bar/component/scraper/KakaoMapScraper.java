@@ -1,6 +1,6 @@
 package com.onz.bars.bar.component.scraper;
 
-import com.onz.bars.bar.domain.apiResponse.scrapeResponse.KakaoMapScrapeResponse;
+import com.onz.bars.bar.model.response.scrapeResponse.KakaoMapScrapeResponse;
 import jakarta.annotation.PostConstruct;
 import lombok.RequiredArgsConstructor;
 import lombok.extern.slf4j.Slf4j;

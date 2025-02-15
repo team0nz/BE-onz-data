@@ -1,7 +1,7 @@
 package com.onz.bars.bar.component.apiCaller;
 
-import com.onz.bars.bar.domain.apiResponse.ApiResponse;
-import com.onz.bars.bar.domain.apiResponse.googlePlace.placeDetailApi.GooglePlaceDetailApiResponse;
+import com.onz.bars.bar.model.response.ApiResponse;
+import com.onz.bars.bar.model.response.googlePlace.placeDetailApi.GooglePlaceDetailApiResponse;
 import jakarta.annotation.PostConstruct;
 import org.springframework.beans.factory.annotation.Value;
 import org.springframework.stereotype.Component;

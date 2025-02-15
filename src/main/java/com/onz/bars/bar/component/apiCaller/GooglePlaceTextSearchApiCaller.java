@@ -1,9 +1,9 @@
 package com.onz.bars.bar.component.apiCaller;
 
-import com.onz.bars.bar.domain.apiResponse.ApiResponse;
-import com.onz.bars.bar.domain.apiResponse.googlePlace.textSearchApi.GooglePlaceTextSearchApiNextPageRequest;
-import com.onz.bars.bar.domain.apiResponse.googlePlace.textSearchApi.GooglePlaceTextSearchApiResponse;
-import com.onz.bars.bar.domain.apiResponse.googlePlace.textSearchApi.GooglePlaceTextSearchRequest;
+import com.onz.bars.bar.model.response.ApiResponse;
+import com.onz.bars.bar.model.request.googlePlace.textSearchApi.GooglePlaceTextSearchApiNextPageRequest;
+import com.onz.bars.bar.model.response.googlePlace.textSearchApi.GooglePlaceTextSearchApiResponse;
+import com.onz.bars.bar.model.request.googlePlace.textSearchApi.GooglePlaceTextSearchRequest;
 import jakarta.annotation.PostConstruct;
 import lombok.RequiredArgsConstructor;
 import org.springframework.beans.factory.annotation.Value;
