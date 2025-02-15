@@ -1,6 +1,6 @@
-package com.onz.bars.bar.domain.apiResponse.googlePlace.textSearchApi;
+package com.onz.bars.bar.model.response.googlePlace.textSearchApi;
 
-import com.onz.bars.bar.domain.apiResponse.ApiResponse;
+import com.onz.bars.bar.model.response.ApiResponse;
 import lombok.Getter;
 
 import java.util.List;

@@ -1,7 +1,7 @@
 package com.onz.bars.bar.domain;
 
 import com.onz.bars.common.domain.BaseEntity;
-import com.onz.bars.bar.domain.apiResponse.kakaoLocal.Place;
+import com.onz.bars.bar.model.response.kakaoLocal.Place;
 import jakarta.persistence.Entity;
 import lombok.AllArgsConstructor;
 import lombok.Getter;

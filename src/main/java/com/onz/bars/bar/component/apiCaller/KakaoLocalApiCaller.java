@@ -2,7 +2,7 @@ package com.onz.bars.bar.component.apiCaller;
 
 import com.fasterxml.jackson.core.JsonProcessingException;
 import com.fasterxml.jackson.databind.ObjectMapper;
-import com.onz.bars.bar.domain.apiResponse.kakaoLocal.KakaoMapApiResponse;
+import com.onz.bars.bar.model.response.kakaoLocal.KakaoMapApiResponse;
 import jakarta.annotation.PostConstruct;
 import lombok.RequiredArgsConstructor;
 

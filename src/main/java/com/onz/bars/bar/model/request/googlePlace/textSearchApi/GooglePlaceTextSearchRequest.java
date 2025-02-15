@@ -1,4 +1,4 @@
-package com.onz.bars.bar.domain.apiResponse.googlePlace.textSearchApi;
+package com.onz.bars.bar.model.request.googlePlace.textSearchApi;
 
 import lombok.AllArgsConstructor;
 import lombok.Getter;

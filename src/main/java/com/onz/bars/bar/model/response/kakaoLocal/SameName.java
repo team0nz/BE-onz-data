@@ -1,4 +1,4 @@
-package com.onz.bars.bar.domain.apiResponse.kakaoLocal;
+package com.onz.bars.bar.model.response.kakaoLocal;
 
 import lombok.Getter;
 import lombok.NoArgsConstructor;

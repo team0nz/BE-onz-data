@@ -1,4 +1,4 @@
-package com.onz.bars.bar.domain.apiResponse.googlePlace.placeDetailApi;
+package com.onz.bars.bar.model.response.googlePlace.placeDetailApi;
 
 import lombok.Getter;
 

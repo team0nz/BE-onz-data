@@ -1,4 +1,4 @@
-package com.onz.bars.bar.domain.apiResponse.scrapeResponse;
+package com.onz.bars.bar.model.response.scrapeResponse;
 
 import lombok.AllArgsConstructor;
 import lombok.Getter;
