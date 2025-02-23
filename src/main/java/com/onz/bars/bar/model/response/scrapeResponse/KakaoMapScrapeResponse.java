@@ -13,4 +13,5 @@ public class KakaoMapScrapeResponse {
     private List<WebElement> menuItems;
     private List<WebElement> openDays;
     private List<WebElement> ratingItems;
+    private List<String> barImageItems;
 }
