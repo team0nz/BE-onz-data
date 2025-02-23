@@ -70,6 +70,6 @@ public class OpenHourParser {
         if (hourMatcher.find()) {
             return new String[]{hourMatcher.group(1),hourMatcher.group(2)};
         }
-        return null;
+        return new String[]{"00:00", "00:00"};
     }
 }
